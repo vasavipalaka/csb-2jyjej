@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://vasavipalaka.github.io/csb-2jyjej/static/css/main.24abd539.chunk.css",
+    "main.js": "https://vasavipalaka.github.io/csb-2jyjej/static/js/main.700d8a69.chunk.js",
+    "main.js.map": "https://vasavipalaka.github.io/csb-2jyjej/static/js/main.700d8a69.chunk.js.map",
+    "runtime-main.js": "https://vasavipalaka.github.io/csb-2jyjej/static/js/runtime-main.f9b216dd.js",
+    "runtime-main.js.map": "https://vasavipalaka.github.io/csb-2jyjej/static/js/runtime-main.f9b216dd.js.map",
+    "static/css/2.8f2b9384.chunk.css": "https://vasavipalaka.github.io/csb-2jyjej/static/css/2.8f2b9384.chunk.css",
+    "static/js/2.858f1c7b.chunk.js": "https://vasavipalaka.github.io/csb-2jyjej/static/js/2.858f1c7b.chunk.js",
+    "static/js/2.858f1c7b.chunk.js.map": "https://vasavipalaka.github.io/csb-2jyjej/static/js/2.858f1c7b.chunk.js.map",
+    "index.html": "https://vasavipalaka.github.io/csb-2jyjej/index.html",
+    "static/css/2.8f2b9384.chunk.css.map": "https://vasavipalaka.github.io/csb-2jyjej/static/css/2.8f2b9384.chunk.css.map",
+    "static/css/main.24abd539.chunk.css.map": "https://vasavipalaka.github.io/csb-2jyjej/static/css/main.24abd539.chunk.css.map",
+    "static/js/2.858f1c7b.chunk.js.LICENSE.txt": "https://vasavipalaka.github.io/csb-2jyjej/static/js/2.858f1c7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9b216dd.js",
+    "static/css/2.8f2b9384.chunk.css",
+    "static/js/2.858f1c7b.chunk.js",
+    "static/css/main.24abd539.chunk.css",
+    "static/js/main.700d8a69.chunk.js"
+  ]
+}
